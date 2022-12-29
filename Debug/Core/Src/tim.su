@@ -1,0 +1,13 @@
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_bus.h:451:22:LL_AHB2_GRP1_EnableClock	24	static
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_bus.h:1427:22:LL_APB2_GRP1_EnableClock	24	static
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_tim.h:2013:22:LL_TIM_EnableCounter	16	static
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_tim.h:2204:22:LL_TIM_DisableARRPreload	16	static
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_tim.h:2583:22:LL_TIM_CC_EnableChannel	16	static
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_tim.h:2972:22:LL_TIM_OC_DisableFast	24	static
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_tim.h:3024:22:LL_TIM_OC_EnablePreload	24	static
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_tim.h:3933:22:LL_TIM_SetClockSource	16	static
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_tim.h:3986:22:LL_TIM_SetTriggerOutput	16	static
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_tim.h:4016:22:LL_TIM_SetTriggerOutput2	16	static
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_tim.h:4092:22:LL_TIM_DisableMasterSlaveMode	16	static
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_tim.h:4626:22:LL_TIM_EnableAllOutputs	16	static
+../Core/Src/tim.c:28:6:MX_TIM8_Init	136	static
